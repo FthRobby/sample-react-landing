@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sample-react-landing/static/css/main.6813f955.chunk.css",
+    "main.js": "/sample-react-landing/static/js/main.32b41ca2.chunk.js",
+    "main.js.map": "/sample-react-landing/static/js/main.32b41ca2.chunk.js.map",
+    "runtime-main.js": "/sample-react-landing/static/js/runtime-main.95358fb5.js",
+    "runtime-main.js.map": "/sample-react-landing/static/js/runtime-main.95358fb5.js.map",
+    "static/js/2.94eb37e6.chunk.js": "/sample-react-landing/static/js/2.94eb37e6.chunk.js",
+    "static/js/2.94eb37e6.chunk.js.map": "/sample-react-landing/static/js/2.94eb37e6.chunk.js.map",
+    "index.html": "/sample-react-landing/index.html",
+    "static/css/main.6813f955.chunk.css.map": "/sample-react-landing/static/css/main.6813f955.chunk.css.map",
+    "static/js/2.94eb37e6.chunk.js.LICENSE.txt": "/sample-react-landing/static/js/2.94eb37e6.chunk.js.LICENSE.txt",
+    "static/media/about.0290bb5a.png": "/sample-react-landing/static/media/about.0290bb5a.png",
+    "static/media/index.css": "/sample-react-landing/static/media/presentation.2d949a93.png",
+    "static/media/downloads.52e6d6c5.png": "/sample-react-landing/static/media/downloads.52e6d6c5.png",
+    "static/media/feature_1.801589a0.png": "/sample-react-landing/static/media/feature_1.801589a0.png",
+    "static/media/feature_2.2b466162.png": "/sample-react-landing/static/media/feature_2.2b466162.png",
+    "static/media/feature_3.0fadb17c.png": "/sample-react-landing/static/media/feature_3.0fadb17c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95358fb5.js",
+    "static/js/2.94eb37e6.chunk.js",
+    "static/css/main.6813f955.chunk.css",
+    "static/js/main.32b41ca2.chunk.js"
+  ]
+}
